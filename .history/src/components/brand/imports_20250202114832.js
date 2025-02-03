@@ -1,0 +1,5 @@
+import google from "../../assets/google.png"
+import slack from "../../assets/slack.png"
+import atlasian from "../../assets/atlasiane.png"
+import dropbox from "../../assets/gdropboxpng"
+import shopify from "../../assets/goshopifyng"
