@@ -1,6 +1,6 @@
 # Fully Responsive Modern UI/UX Website in React
 
-![Project Preview](/assets/preview.png)  
+![Project Preview](public//assets/preview.png)  
 *A sleek, fully responsive, modern UI/UX website built using React and custom CSS.*
 
 ## 🚀 Live Demo
