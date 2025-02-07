@@ -4,7 +4,7 @@
 *A sleek, fully responsive, modern UI/UX website built using React and custom CSS.*
 
 ## 🚀 Live Demo
-Check out the live version: [Demo Link](https://your-demo-link.com)
+Check out the live version: [Demo Link](https://openaiclonegd.netlify.app/)
 
 ## ⭐ About the Project
 This project is a recreation of a professional modern UI/UX website using **React** and **custom CSS**, following best practices in front-end development. It ensures a seamless experience across all devices with a **fully responsive design**.
